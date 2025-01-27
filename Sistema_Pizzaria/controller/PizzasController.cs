@@ -72,5 +72,33 @@ namespace Sistema_Pizzaria.controller
             return NoContent();
 
         }
+
+        //Endpoint validação dos pedidos
+        [HttpPost("pedido")]
+        public ActionResult CalcularTempoPedido([FromBody] List<string> sabores)
+        {
+            if (sabores == null || !sabores.Any())
+            {
+                return BadRequest("A lista de sabores não pode estar vazia.");
+            }
+
+            // Verificar se todos os sabores existem no banco de dados
+            var pizzasEncontradas = _context.Pizzas.Where(p => sabores.Contains(p.Sabor)).ToList();
+
+            if (pizzasEncontradas.Count != sabores.Count)
+            {
+                return BadRequest("Um ou mais sabores do pedido estão em falta.");
+            }
+
+            // Calcular o tempo total de preparo
+            var tempoTotal = pizzasEncontradas.Sum(p => p.TempoPreparo);
+
+            return Ok(new
+            {
+                Mensagem = "Pedido processado com sucesso.",
+                TempoTotalPreparo = tempoTotal
+            });
+        }
+
     }
 }

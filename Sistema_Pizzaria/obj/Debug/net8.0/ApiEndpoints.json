@@ -97,5 +97,21 @@
       }
     ],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Sistema_Pizzaria.controller.PizzasController",
+    "Method": "CalcularTempoPedido",
+    "RelativePath": "api/pizzas/pedido",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "sabores",
+        "Type": "System.Collections.Generic.List\u00601[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
   }
 ]

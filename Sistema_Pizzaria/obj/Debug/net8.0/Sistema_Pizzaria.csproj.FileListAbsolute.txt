@@ -166,3 +166,4 @@ C:\Users\Acer\Desktop\Projetos\Desafio_Level9\Sistema_Pizzaria\Sistema_Pizzaria\
 C:\Users\Acer\Desktop\Projetos\Desafio_Level9\Sistema_Pizzaria\Sistema_Pizzaria\obj\Debug\net8.0\Sistema_Pizzaria.pdb
 C:\Users\Acer\Desktop\Projetos\Desafio_Level9\Sistema_Pizzaria\Sistema_Pizzaria\obj\Debug\net8.0\Sistema_Pizzaria.genruntimeconfig.cache
 C:\Users\Acer\Desktop\Projetos\Desafio_Level9\Sistema_Pizzaria\Sistema_Pizzaria\obj\Debug\net8.0\ref\Sistema_Pizzaria.dll
+C:\Users\Acer\Desktop\Projetos\Desafio_Level9\Sistema_Pizzaria\Sistema_Pizzaria\obj\Debug\net8.0\Sistema_Pizzaria.sourcelink.json
