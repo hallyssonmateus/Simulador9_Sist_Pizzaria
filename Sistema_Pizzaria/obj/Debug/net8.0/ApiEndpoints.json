@@ -1,5 +1,21 @@
 [
   {
+    "ContainingType": "Sistema_Pizzaria.Controllers.LoginController",
+    "Method": "Login",
+    "RelativePath": "api/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "usuarioRequest",
+        "Type": "Sistema_Pizzaria.usuario.UsuarioRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "Sistema_Pizzaria.controller.PizzasController",
     "Method": "Add",
     "RelativePath": "api/pizzas",

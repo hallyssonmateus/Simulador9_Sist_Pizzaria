@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Sistema_Pizzaria.Infra;
 using Sistema_Pizzaria.Models;
@@ -19,6 +20,7 @@ namespace Sistema_Pizzaria.controller
 
         // Endpoint para criar uma pizza
         [HttpPost]
+        [Authorize]
         public ActionResult Add([FromBody] Pizza pizza)
         {
             if (pizza == null)
@@ -33,6 +35,7 @@ namespace Sistema_Pizzaria.controller
 
         // Endpoint para atualizar uma pizza
         [HttpPut("{id}")]
+        [Authorize(Roles = "cozinheiro")]
         public ActionResult Update(int id, [FromBody] Pizza pizza)
         {
             if (id != pizza.Id)
@@ -54,6 +57,7 @@ namespace Sistema_Pizzaria.controller
 
         // Endpoint para buscar uma pizza especifica pelo ID
         [HttpGet("{id}")]
+        [Authorize]
         public ActionResult<Pizza> GetPizza(int id)
         {
             var pizza = _context.Pizzas.Find(id);
@@ -63,6 +67,7 @@ namespace Sistema_Pizzaria.controller
 
         //Endpoint para deletar uma pizza
         [HttpDelete("{id}")]
+        [Authorize(Roles = "cozinheiro")]
         public ActionResult DeletePizza(int id)
         {
             var pizza = _context.Pizzas.Find(id);
@@ -75,6 +80,7 @@ namespace Sistema_Pizzaria.controller
 
         //Endpoint validação dos pedidos
         [HttpPost("pedido")]
+        [Authorize]
         public ActionResult CalcularTempoPedido([FromBody] List<string> sabores)
         {
             if (sabores == null || !sabores.Any())

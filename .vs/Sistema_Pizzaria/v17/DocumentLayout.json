@@ -3,24 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\Acer\\Desktop\\Projetos\\Desafio_Level9\\Sistema_Pizzaria\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6D15A082-7C67-4681-938B-89FD26AA085D}|Sistema_Pizzaria\\Sistema_Pizzaria.csproj|c:\\users\\acer\\desktop\\projetos\\desafio_level9\\sistema_pizzaria\\sistema_pizzaria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D15A082-7C67-4681-938B-89FD26AA085D}|Sistema_Pizzaria\\Sistema_Pizzaria.csproj|solutionrelative:sistema_pizzaria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6D15A082-7C67-4681-938B-89FD26AA085D}|Sistema_Pizzaria\\Sistema_Pizzaria.csproj|c:\\users\\acer\\desktop\\projetos\\desafio_level9\\sistema_pizzaria\\sistema_pizzaria\\infra\\pizzariacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6D15A082-7C67-4681-938B-89FD26AA085D}|Sistema_Pizzaria\\Sistema_Pizzaria.csproj|solutionrelative:sistema_pizzaria\\infra\\pizzariacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D15A082-7C67-4681-938B-89FD26AA085D}|Sistema_Pizzaria\\Sistema_Pizzaria.csproj|c:\\users\\acer\\desktop\\projetos\\desafio_level9\\sistema_pizzaria\\sistema_pizzaria\\usuario\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D15A082-7C67-4681-938B-89FD26AA085D}|Sistema_Pizzaria\\Sistema_Pizzaria.csproj|solutionrelative:sistema_pizzaria\\usuario\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D15A082-7C67-4681-938B-89FD26AA085D}|Sistema_Pizzaria\\Sistema_Pizzaria.csproj|c:\\users\\acer\\desktop\\projetos\\desafio_level9\\sistema_pizzaria\\sistema_pizzaria\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D15A082-7C67-4681-938B-89FD26AA085D}|Sistema_Pizzaria\\Sistema_Pizzaria.csproj|solutionrelative:sistema_pizzaria\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D15A082-7C67-4681-938B-89FD26AA085D}|Sistema_Pizzaria\\Sistema_Pizzaria.csproj|c:\\users\\acer\\desktop\\projetos\\desafio_level9\\sistema_pizzaria\\sistema_pizzaria\\configuracao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D15A082-7C67-4681-938B-89FD26AA085D}|Sistema_Pizzaria\\Sistema_Pizzaria.csproj|solutionrelative:sistema_pizzaria\\configuracao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6D15A082-7C67-4681-938B-89FD26AA085D}|Sistema_Pizzaria\\Sistema_Pizzaria.csproj|c:\\users\\acer\\desktop\\projetos\\desafio_level9\\sistema_pizzaria\\sistema_pizzaria\\controller\\pizzascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6D15A082-7C67-4681-938B-89FD26AA085D}|Sistema_Pizzaria\\Sistema_Pizzaria.csproj|solutionrelative:sistema_pizzaria\\controller\\pizzascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D15A082-7C67-4681-938B-89FD26AA085D}|Sistema_Pizzaria\\Sistema_Pizzaria.csproj|c:\\users\\acer\\desktop\\projetos\\desafio_level9\\sistema_pizzaria\\sistema_pizzaria\\models\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D15A082-7C67-4681-938B-89FD26AA085D}|Sistema_Pizzaria\\Sistema_Pizzaria.csproj|solutionrelative:sistema_pizzaria\\models\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6D15A082-7C67-4681-938B-89FD26AA085D}|Sistema_Pizzaria\\Sistema_Pizzaria.csproj|c:\\users\\acer\\desktop\\projetos\\desafio_level9\\sistema_pizzaria\\sistema_pizzaria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D15A082-7C67-4681-938B-89FD26AA085D}|Sistema_Pizzaria\\Sistema_Pizzaria.csproj|solutionrelative:sistema_pizzaria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D15A082-7C67-4681-938B-89FD26AA085D}|Sistema_Pizzaria\\Sistema_Pizzaria.csproj|c:\\users\\acer\\desktop\\projetos\\desafio_level9\\sistema_pizzaria\\sistema_pizzaria\\migrations\\20250126013702_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D15A082-7C67-4681-938B-89FD26AA085D}|Sistema_Pizzaria\\Sistema_Pizzaria.csproj|solutionrelative:sistema_pizzaria\\migrations\\20250126013702_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6D15A082-7C67-4681-938B-89FD26AA085D}|Sistema_Pizzaria\\Sistema_Pizzaria.csproj|c:\\users\\acer\\desktop\\projetos\\desafio_level9\\sistema_pizzaria\\sistema_pizzaria\\usuario\\usuariorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D15A082-7C67-4681-938B-89FD26AA085D}|Sistema_Pizzaria\\Sistema_Pizzaria.csproj|solutionrelative:sistema_pizzaria\\usuario\\usuariorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D15A082-7C67-4681-938B-89FD26AA085D}|Sistema_Pizzaria\\Sistema_Pizzaria.csproj|c:\\users\\acer\\desktop\\projetos\\desafio_level9\\sistema_pizzaria\\sistema_pizzaria\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D15A082-7C67-4681-938B-89FD26AA085D}|Sistema_Pizzaria\\Sistema_Pizzaria.csproj|solutionrelative:sistema_pizzaria\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D15A082-7C67-4681-938B-89FD26AA085D}|Sistema_Pizzaria\\Sistema_Pizzaria.csproj|c:\\users\\acer\\desktop\\projetos\\desafio_level9\\sistema_pizzaria\\sistema_pizzaria\\usuario\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D15A082-7C67-4681-938B-89FD26AA085D}|Sistema_Pizzaria\\Sistema_Pizzaria.csproj|solutionrelative:sistema_pizzaria\\usuario\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D15A082-7C67-4681-938B-89FD26AA085D}|Sistema_Pizzaria\\Sistema_Pizzaria.csproj|c:\\users\\acer\\desktop\\projetos\\desafio_level9\\sistema_pizzaria\\sistema_pizzaria\\models\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D15A082-7C67-4681-938B-89FD26AA085D}|Sistema_Pizzaria\\Sistema_Pizzaria.csproj|solutionrelative:sistema_pizzaria\\models\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,11 +50,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsuarioRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\Projetos\\Desafio_Level9\\Sistema_Pizzaria\\Sistema_Pizzaria\\usuario\\UsuarioRequest.cs",
+              "RelativeDocumentMoniker": "Sistema_Pizzaria\\usuario\\UsuarioRequest.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\Projetos\\Desafio_Level9\\Sistema_Pizzaria\\Sistema_Pizzaria\\usuario\\UsuarioRequest.cs",
+              "RelativeToolTip": "Sistema_Pizzaria\\usuario\\UsuarioRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T20:37:05.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\Projetos\\Desafio_Level9\\Sistema_Pizzaria\\Sistema_Pizzaria\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Sistema_Pizzaria\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\Projetos\\Desafio_Level9\\Sistema_Pizzaria\\Sistema_Pizzaria\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Sistema_Pizzaria\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAwAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T20:35:50.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\Projetos\\Desafio_Level9\\Sistema_Pizzaria\\Sistema_Pizzaria\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "Sistema_Pizzaria\\Services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\Projetos\\Desafio_Level9\\Sistema_Pizzaria\\Sistema_Pizzaria\\Services\\TokenService.cs",
+              "RelativeToolTip": "Sistema_Pizzaria\\Services\\TokenService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwAwAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T18:38:37.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Configuracao.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\Projetos\\Desafio_Level9\\Sistema_Pizzaria\\Sistema_Pizzaria\\Configuracao.cs",
+              "RelativeDocumentMoniker": "Sistema_Pizzaria\\Configuracao.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\Projetos\\Desafio_Level9\\Sistema_Pizzaria\\Sistema_Pizzaria\\Configuracao.cs",
+              "RelativeToolTip": "Sistema_Pizzaria\\Configuracao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T18:31:37.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\Projetos\\Desafio_Level9\\Sistema_Pizzaria\\Sistema_Pizzaria\\usuario\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "Sistema_Pizzaria\\usuario\\UsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\Projetos\\Desafio_Level9\\Sistema_Pizzaria\\Sistema_Pizzaria\\usuario\\UsuarioRepository.cs",
+              "RelativeToolTip": "Sistema_Pizzaria\\usuario\\UsuarioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T18:15:40.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\Projetos\\Desafio_Level9\\Sistema_Pizzaria\\Sistema_Pizzaria\\usuario\\Usuario.cs",
+              "RelativeDocumentMoniker": "Sistema_Pizzaria\\usuario\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\Projetos\\Desafio_Level9\\Sistema_Pizzaria\\Sistema_Pizzaria\\usuario\\Usuario.cs",
+              "RelativeToolTip": "Sistema_Pizzaria\\usuario\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T18:12:00.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "PizzariaContext.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\Projetos\\Desafio_Level9\\Sistema_Pizzaria\\Sistema_Pizzaria\\Infra\\PizzariaContext.cs",
               "RelativeDocumentMoniker": "Sistema_Pizzaria\\Infra\\PizzariaContext.cs",
@@ -47,7 +145,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "Pizza.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\Projetos\\Desafio_Level9\\Sistema_Pizzaria\\Sistema_Pizzaria\\Models\\Pizza.cs",
               "RelativeDocumentMoniker": "Sistema_Pizzaria\\Models\\Pizza.cs",
@@ -59,38 +157,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "PizzasController.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\Projetos\\Desafio_Level9\\Sistema_Pizzaria\\Sistema_Pizzaria\\controller\\PizzasController.cs",
               "RelativeDocumentMoniker": "Sistema_Pizzaria\\controller\\PizzasController.cs",
               "ToolTip": "C:\\Users\\Acer\\Desktop\\Projetos\\Desafio_Level9\\Sistema_Pizzaria\\Sistema_Pizzaria\\controller\\PizzasController.cs",
               "RelativeToolTip": "Sistema_Pizzaria\\controller\\PizzasController.cs",
-              "ViewState": "AgIAAEoAAAAAAAAAAAAkwGUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAYwFgAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-26T02:28:31.25Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "20250126013702_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\Projetos\\Desafio_Level9\\Sistema_Pizzaria\\Sistema_Pizzaria\\Migrations\\20250126013702_InitialCreate.cs",
-              "RelativeDocumentMoniker": "Sistema_Pizzaria\\Migrations\\20250126013702_InitialCreate.cs",
-              "ToolTip": "C:\\Users\\Acer\\Desktop\\Projetos\\Desafio_Level9\\Sistema_Pizzaria\\Sistema_Pizzaria\\Migrations\\20250126013702_InitialCreate.cs",
-              "RelativeToolTip": "Sistema_Pizzaria\\Migrations\\20250126013702_InitialCreate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-26T01:37:04.923Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\Projetos\\Desafio_Level9\\Sistema_Pizzaria\\Sistema_Pizzaria\\Program.cs",
               "RelativeDocumentMoniker": "Sistema_Pizzaria\\Program.cs",
               "ToolTip": "C:\\Users\\Acer\\Desktop\\Projetos\\Desafio_Level9\\Sistema_Pizzaria\\Sistema_Pizzaria\\Program.cs",
               "RelativeToolTip": "Sistema_Pizzaria\\Program.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAcwBEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACYAAAAAAAAAAAAkwEQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-25T22:54:22.17Z",
               "EditorCaption": ""
