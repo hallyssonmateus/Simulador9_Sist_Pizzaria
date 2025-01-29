@@ -20,7 +20,7 @@ namespace Sistema_Pizzaria.controller
 
         // Endpoint para criar uma pizza
         [HttpPost]
-        [Authorize]
+        [Authorize(Roles = "cozinheiro")]
         public ActionResult Add([FromBody] Pizza pizza)
         {
             if (pizza == null)
