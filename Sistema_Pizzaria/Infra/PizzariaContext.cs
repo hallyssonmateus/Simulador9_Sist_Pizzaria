@@ -7,7 +7,7 @@ namespace Sistema_Pizzaria.Infra
     public class PizzariaContext : DbContext
     {
         public PizzariaContext(DbContextOptions<PizzariaContext> options) : base(options) { }
-        public DbSet<Pizza> Pizzas { get; set; } // Tabela de pizzas
+        public virtual DbSet<Pizza> Pizzas { get; set; } // Tabela de pizzas
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
