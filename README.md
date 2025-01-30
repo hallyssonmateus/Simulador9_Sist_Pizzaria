@@ -30,7 +30,7 @@ Um sistema para gerenciamento de pedidos de pizza, desenvolvido em **.NET Framew
 - **Testes Unitários**  
   Verifica se o cálculo do tempo total do pedido está correto.
 
-  <img src="../Sistema_Pizzaria/Src/imagem5.PNG" alt="Print Testes Unitarios" width="1000" height="400">
+  <img src="/Src/imagem5.PNG" alt="Print Testes Unitarios" width="1000" height="400">
 
 
     
