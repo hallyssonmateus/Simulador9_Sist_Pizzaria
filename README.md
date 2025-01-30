@@ -9,20 +9,20 @@ Um sistema para gerenciamento de pedidos de pizza, desenvolvido em **.NET Framew
 - **Cadastro de Pizzas**  
   Adicione novas pizzas ao sistema com nome e tempo de preparo.
   
-  ![Descrição da imagem](../Sistema_Pizzaria/Src/imagem3.PNG)
+  ![Descrição da imagem](/Src/imagem3.PNG)
 
 - **Cálculo do Tempo de Pedido**  
   Determine o tempo total de um pedido com base nos sabores selecionados.
 
-  ![Descrição da imagem](../Sistema_Pizzaria/Src/imagem4.PNG)
+  ![Descrição da imagem](/Src/imagem4.PNG)
 - **Autenticação e Autorização (JWT)**  
   Implementação de autenticação baseada em **JSON Web Token (JWT)** para proteger endpoints da API.
 
-    ![Descrição da imagem](../Sistema_Pizzaria/Src/imagem1.PNG)
+    ![Descrição da imagem](/Src/imagem1.PNG)
   
   Validação do Token após Login do usuario e senha.
 
-    ![Validação do Token](../Sistema_Pizzaria/Src/imagem2.PNG)
+    ![Validação do Token](/Src/imagem2.PNG)
 
 - **Validação de Sabores**  
   Garante que todas as pizzas do pedido existam no sistema.  
